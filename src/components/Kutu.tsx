@@ -13,3 +13,4 @@ const Kutu: React.FC<KutuOzellikleri> = ({ children }) => {
 };
 
 export default Kutu;
+//Kutu componenti için test
