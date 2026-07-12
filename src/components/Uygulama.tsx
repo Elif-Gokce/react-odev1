@@ -19,3 +19,4 @@ function Uygulama() {
 
 export default Uygulama;
 
+//Uygulama componenti için test
