@@ -22,4 +22,5 @@ const OgrenciListe: React.FC<ListeOzellikleri> = ({ ogrenciler }) => {
 };
 
 export default OgrenciListe;
+// OgrenciListe componenti için test satırı
 
