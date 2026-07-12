@@ -37,5 +37,6 @@ const OgrenciKart: React.FC<OgrenciOzellikleri> = ({
     </div>
   );
 };
+// OgrenciKart componenti için test
 
 export default OgrenciKart;
